@@ -432,6 +432,41 @@ header nav ul li.btn a:hover, .email .block button:hover {
     margin-left: -20px;
 }
 
+.work {
+  padding: 300px 0 !important;
+  margin-bottom: -150px;
+}
+
+.work h2 {
+ font-size: 25px !important;
+ margin-bottom: 40px !important;
+}
+
+.work .blockss {
+  display: flex  ;
+  justify-content: space-between ;
+}
+
+.work .blockss .blockk {
+  width: 30%;
+  border-radius: 10px;
+  padding: 50px 35px;
+  background: #2c2a2a;
+}
+
+.work .blockss .blockk h3 {
+  font-size: 20px;
+  margin: 20px 0;
+}
+
+.work .blockss .blockk .badge {
+  border-radius: 7px;
+  padding: 10px 20px;
+  background: #8d0000;
+}
+
+
+
 footer {
     background: #111;
     color: #fff;
